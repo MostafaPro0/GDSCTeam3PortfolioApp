@@ -1,1 +1,1 @@
-# FrontEnd6Project
+# GDSC Team 3 Portfolio App
